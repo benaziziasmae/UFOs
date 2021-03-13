@@ -12,6 +12,5 @@ In order to perform their analysis, users will be able to filter the UFO sightin
 - Data Source: [UFO Data](/static/JavaScript/data.js)
 - Software : HTML/CSS, JavaScript, Visual studio Code, BootStrap, d3-js.
 
-
-
+### Link to UFO Sightings webpage : 
 
