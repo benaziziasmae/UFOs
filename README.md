@@ -56,7 +56,7 @@ All filter parameters can be entered simultaneously.
 
 ## Summary 
 
-- One drawback of this design is the difficulty for the user to know what parameter to use for the filtering. For example to pick a city, the user would have to go through the table a find the city desired for the analysis.
+- One drawback of this design is the difficulty for the user to know what parameter to use for the filtering. For example to pick a city, the user would have to go through the table **data. js** to find the city desired for the analysis.
 - A way to address this would be to present drop-down lists including all filter values in place of the input fields.
 Each list would need to update after a parameter is selected in any filter.
 
