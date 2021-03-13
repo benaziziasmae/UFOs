@@ -8,4 +8,10 @@ This project focuses on building a dynamic webpage that accepts user inputs and 
 In order to perform their analysis, users will be able to filter the UFO sightings table based on multiple criteria such as the event date, city, state, country and shape.
 
 ## Resources
+
 - Data Source: [UFO Data](/static/JavaScript/data.js)
+- Software : HTML/CSS, JavaScript, Visual studio Code, BootStrap, d3-js.
+
+
+
+
