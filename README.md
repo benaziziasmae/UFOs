@@ -19,6 +19,8 @@ In order to perform their analysis, users will be able to filter the UFO sightin
 
 This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
 
+![filter_screen](/static/images/filter_screen.PNG)
+
 
 ## Summary 
 
